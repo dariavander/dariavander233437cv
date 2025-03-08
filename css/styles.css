@@ -6,23 +6,27 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: .poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #7F6C82;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #BB1627;
+	color:white;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F2C6E9;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #58A9C6;
 }
 
 /* Styles for lists in the document */
