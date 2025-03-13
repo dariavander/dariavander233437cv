@@ -15,7 +15,15 @@ font-style: BOLD;
 text-decoration: underline #FFFFFF;
 
 }
-
+.language-level {
+    border: 4px solid #ff00dd; /* Change to your desired border color */
+    border-color: #FFFFFFF !important;
+    border-radius: 0px; /* Optional: Add rounded corners */
+}
+.language-level .language-progress {
+	background-color: #FFFFFF !important;
+	border: 25px; /* Optional: Add rounded corners */
+}
 body {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
