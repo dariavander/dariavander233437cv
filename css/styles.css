@@ -4,9 +4,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
+.funky-text {
+
+color: #FFFFFF;
+
+text-align: LEFT;
+
+font-style: BOLD;
+
+text-decoration: underline #ffcc00;
+
+}
 
 body {
-	font-family: .poppins-bold {
+	font-family:.poppins-bold {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-style: normal;;
